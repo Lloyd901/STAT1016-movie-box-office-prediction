@@ -21,6 +21,6 @@ This project applies machine learning (Random Forest) to predict global box offi
 
 ## Report
 The full project report with complete methodology and results is available in this repository:  
-**[STAT1016_Group_Project_Report.pdf](./STAT1016_Group_Project_Report.pdf)**
+**[STAT1016_Group_Project_Report.pdf](./STAT1016_Movie_Revenue_Prediction_Report.pdf)**
 
 > *Note: Source code is not included in this repository due to academic group project policy. However, all preprocessing steps, feature engineering logic, and modeling details are thoroughly documented in the report.*
